@@ -1,0 +1,29 @@
+[
+  {
+    
+    "organisation": "Microsoft Learn Student Ambassador",
+    "startDate": "April, 2021",
+    "endDate": "June 2024",
+    "experiences": ["Hosted workshops", "Wrote technical blogs"],
+    "imageSrc": "history/beta.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Postman API Fundamental Student Expert",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["API Proficiency"],
+    "imageSrc": "history/post.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Smart India Hackathon Winner",
+    "startDate": "December",
+    "endDate": "2023",
+    "experiences": [
+      "Provided efficient solution for PSID-1300",
+      "Helped in creating UI components"
+    ],
+    "imageSrc": "history/sih.png"
+  }
+]
