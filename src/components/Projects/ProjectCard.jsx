@@ -2,6 +2,7 @@ import React from "react";
 
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+import { Link, Github } from "lucide-react";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source },
@@ -26,10 +27,10 @@ export const ProjectCard = ({
       </ul>
       <div className={styles.links}>
         <a href={demo} className={styles.link}>
-          Demo
+        <Link size={26} />  Demo
         </a>
         <a href={source} className={styles.link}>
-          Source
+        <Github size={26} /> Source
         </a>
       </div>
     </div>
