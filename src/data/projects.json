@@ -1,26 +1,26 @@
 [
   {
     "title": "VidConnect",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/vid.jpg",
     "description": "A video conferencing platform built with React.js, Next.js, and TypeScript. It offers secure authentication via Clerk, real-time meeting controls, screen sharing, and scheduling.",
     "skills": ["React", "stream API", "clerk"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://vidconnect-two.vercel.app",
+    "source": "https://github.com/SanjoySaha24/vidconnect"
   },
   {
     "title": "GitHub Insight",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/ins.jpg",
     "description": "An open-source project that generates GitHub profiles, roasts profiles using the Google Gemini API, and analyzes GitHub activities. Built with HTML, CSS, JavaScript, and APIs, it offers insights and fun.",
     "skills": ["JavaScript", "Gemini API", "HTML", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github-insight-seven.vercel.app",
+    "source": "https://github.com/SanjoySaha24/Github-Insight"
   },
   {
     "title": "YouTube Clone",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/you.jpg",
     "description": "This project is a fully responsive video-sharing platform built with React JS and Material UI. Offering seamless video playback, it replicates the user experience of YouTube.",
     "skills": ["React", "Material UI", "Rapid API"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://youtubeclone-reactjs.netlify.app/",
+    "source": "https://github.com/SanjoySaha24/Youtube-Clone"
   }
 ]
