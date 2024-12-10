@@ -9,13 +9,13 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Sanjoy</h1>
         <div className={styles.contactLinks}>
-          <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+          <a href="https://www.linkedin.com/in/sanjoysaha24/" className={styles.contactBtn}>
             <Linkedin className={styles.icon} /> LinkedIn
           </a>
-          <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+          <a href="https://github.com/SanjoySaha24/" className={styles.contactBtn}>
             <Github className={styles.icon} /> GitHub
           </a>
-          <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+          <a href="https://drive.google.com/file/d/1pLUL86SwRTyKu50HLGGyCbk6wsZNgtnA/view?usp=sharing" className={styles.contactBtn}>
             <FileText className={styles.icon} /> Resume
           </a>
         </div>
